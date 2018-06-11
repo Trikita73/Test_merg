@@ -8,6 +8,7 @@
 		display: block;
 	}
 }
+
 @media (max-width: 1000px) {
 	.centerblock {
 		max-width: 1000px!important;
